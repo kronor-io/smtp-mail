@@ -34,13 +34,13 @@ library
                , base16-bytestring
                , base64-bytestring
                , bytestring
-               , connection
+               , crypton-connection
                , filepath
                , mime-mail
                , network
                , network-bsd
                , text
-               , cryptonite
+               , crypton
                , memory
 
   ghc-options: -Wall -fwarn-tabs
